@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perkenalan Diri</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="profile-card">
+            <!-- Foto Profil -->
+            <div class="profile-image">
+                <img src="https://via.placeholder.com/200" alt="Foto Profil" id="profile-img">
+            </div>
+            
+            <!-- Nama Lengkap -->
+            <h1 id="nama-lengkap">Alif ganteng</h1>
+            
+            <!-- Informasi Singkat -->
+            <p class="title">Web Developer & Designer</p>
+            
+            <!-- Deskripsi -->
+            <div class="description">
+                <p id="bio">Halo! Saya adalah seorang pengembang web yang passion di bidang teknologi dan desain kreatif.</p>
+            </div>
+            
+            <!-- Tombol Interaktif -->
+            <button class="btn" onclick="tampilkanPesan()">Klik untuk Sapaan</button>
+            <button class="btn btn-secondary" onclick="ubahWarna()">Ubah Warna</button>
+            
+            <!-- Pesan Sapaan -->
+            <div id="message" class="message"></div>
+            
+            <!-- Informasi Tambahan -->
+            <div class="info-section">
+                <h3>Informasi Lengkap</h3>
+                <p><strong>Nama Lengkap:</strong> <span id="nama-detail">Alif diaz</span></p>
+                <p><strong>Panggilan:</strong> <span id="panggilan">alif</span></p>
+                <p><strong>Hobi:</strong> <span id="hobi">Coding, Membaca, Travelling</span></p>
+                <p><strong>Lokasi:</strong> <span id="lokasi">riau, Indonesia</span></p>
+            </div>
+            
+            <!-- Social Media Links -->
+            <div class="social-links">
+                <a href="#" class="social-link">GitHub</a>
+                <a href="#" class="social-link">LinkedIn</a>
+                <a href="#" class="social-link">Instagram</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script eksternal -->
+    <script src="script.js"></script>
+</body>
+</html>
