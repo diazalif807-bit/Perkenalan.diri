@@ -8,9 +8,10 @@ Saya memulai perjalanan coding karena penasaran bagaimana sebuah aplikasi bisa b
 - Membangun aplikasi impian saya.
 - Belajar framework baru biar ga ketinggalan jaman.
 - Ngopi sambil debug code.
+- pemula puhh🤭
 
 ### 📫 Ingin Ngobrol?
-- **Instagram:** [@lifxxcodetz](https://instagram.com/alifdiazbaihaqi) *(ganti dengan username aslimu jika ada)*
+- **Instagram:** [@alifdiazbaihaqi](https://instagram.com/alifdiazbaihaqi)
 - **Email:** [diazalif807@gmail.com](mailto:diazalif807@gmail.com)
 
 ### 📈 Statistik Singkat
